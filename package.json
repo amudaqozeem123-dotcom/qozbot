@@ -1,0 +1,15 @@
+{
+  "name": "qozbot",
+  "version": "1.0.0",
+  "description": "QozBot WhatsApp Assistant",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "latest",
+    "pino": "latest"
+  }
+}
